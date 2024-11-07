@@ -1,0 +1,1 @@
+{"rsync":{"/var/www/html":{"type":"rsync","guestpath":"/var/www/html","hostpath":"C:/Users/Randy/Desktop/DOCS/ITLA/9NO CUATRIMESTRE/ELECTIVA/vagrant01","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
